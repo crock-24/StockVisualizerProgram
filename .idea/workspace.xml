@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="046f0d25-291f-4690-ba6c-f6c08ce2421f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WrTRGMY43az4XBNJ9XmBIa9wdP" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\codyj\Documents\Programming 1\Intellij\java 8 programs 2\out" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\codyj\Documents\Programming 1\Intellij\java 8 programs 2\src" />
+      <recent name="C:\Users\codyj\Documents\Programming 1\Intellij\java 8 programs 2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StockGraph">
+    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValue" />
+      <module name="java 8 programs 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stock" />
+      <module name="java 8 programs 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockGraph" />
+      <module name="java 8 programs 2" />
+      <option name="PROGRAM_PARAMETERS" value="AAPL SPCE MSFT GOOG AMZN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week5InClassProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week5InClassProgram" />
+      <module name="java 8 programs 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java 8 programs 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaxValue" />
+      <item itemvalue="Application.Stock" />
+      <item itemvalue="Application.StockGraph" />
+      <item itemvalue="Application.Week5InClassProgram" />
+      <item itemvalue="JUnit.StockAnalyzerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StockGraph" />
+        <item itemvalue="Application.Stock" />
+        <item itemvalue="Application.Week5InClassProgram" />
+        <item itemvalue="Application.MaxValue" />
+        <item itemvalue="JUnit.StockAnalyzerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="046f0d25-291f-4690-ba6c-f6c08ce2421f" name="Default Changelist" comment="" />
+      <created>1579906703936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579906703936</updated>
+      <workItem from="1579906720716" duration="42000" />
+      <workItem from="1579906969923" duration="632000" />
+      <workItem from="1580183578764" duration="101000" />
+      <workItem from="1580847845503" duration="28165000" />
+      <workItem from="1581009602546" duration="365000" />
+      <workItem from="1581018781279" duration="31327000" />
+      <workItem from="1581545783803" duration="2183000" />
+      <workItem from="1582662505493" duration="1574000" />
+      <workItem from="1583096083484" duration="31740000" />
+      <workItem from="1583509285492" duration="3454000" />
+      <workItem from="1583606891949" duration="4207000" />
+      <workItem from="1583684699130" duration="14330000" />
+      <workItem from="1584487783823" duration="24000" />
+      <workItem from="1589140660432" duration="4979000" />
+      <workItem from="1589147143837" duration="5637000" />
+      <workItem from="1589251795560" duration="1223000" />
+      <workItem from="1643575163003" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
